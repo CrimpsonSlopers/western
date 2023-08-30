@@ -1,0 +1,43 @@
+from django.db import models
+from datetime import datetime
+
+
+class Auction(models.Model):
+    slug = models.SlugField(primary_key=True)
+    name = models.CharField(max_length=250)
+    full_name = models.CharField(max_length=250, unique=True)
+    market = models.CharField(max_length=250)
+    last_final_sale_date = models.DateTimeField(default=datetime.now)
+    offset = models.IntegerField(default=0)
+    mmn_url = models.CharField(max_length=250)
+
+    def __str__(self) -> str:
+        return f"{self.name}"
+
+
+class Sale(models.Model):
+    date = models.DateField()
+    auction = models.ForeignKey(Auction, related_name="sales", on_delete=models.CASCADE)
+    head1 = models.IntegerField(default=0)
+    weight1 = models.FloatField(default=0)
+    price1 = models.FloatField(default=0)
+    head2 = models.IntegerField(default=0)
+    weight2 = models.FloatField(default=0)
+    price2 = models.FloatField(default=0)
+    head3 = models.IntegerField(default=0)
+    weight3 = models.FloatField(default=0)
+    price3 = models.FloatField(default=0)
+    head4 = models.IntegerField(default=0)
+    weight4 = models.FloatField(default=0)
+    price4 = models.FloatField(default=0)
+    head5 = models.IntegerField(default=0)
+    weight5 = models.FloatField(default=0)
+    price5 = models.FloatField(default=0)
+    final_ind = models.CharField(max_length=25, default="final")
+    region = models.CharField(max_length=10, null=True, blank=True)
+
+    class Meta:
+        ordering = ["-date"]
+
+    def __str__(self) -> str:
+        return f"{self.date}: {self.auction.name}"
