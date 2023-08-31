@@ -80,8 +80,10 @@ DATABASES = {
         "NAME": "Western",
         "USER": "crimpsonslopers",
         "PASSWORD": "17Nikefree!",
-        "HOST": "western-db-instance.cb5dgkhdduzz.us-east-2.rds.amazonaws.com",  # Or an IP Address that your DB is hosted on
-        "PORT": "3306",
+        "HOST": "western-db-instance.cb5dgkhdduzz.us-east-2.rds.amazonaws.com",
+        "PORT": 3306,
+        # "ENGINE": "django.db.backends.sqlite3",
+        # "NAME": BASE_DIR / "db.sqlite3",
     }
 }
 

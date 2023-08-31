@@ -7,7 +7,7 @@ class Auction(models.Model):
     name = models.CharField(max_length=250)
     full_name = models.CharField(max_length=250, unique=True)
     market = models.CharField(max_length=250)
-    last_final_sale_date = models.DateTimeField(default=datetime.now)
+    last_final_sale_date = models.DateField(default=datetime(2023, 1, 1))
     offset = models.IntegerField(default=0)
     mmn_url = models.CharField(max_length=250)
 
