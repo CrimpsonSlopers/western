@@ -1,12 +1,13 @@
+import pandas as pd
 import requests
-from django.contrib.auth import authenticate
+from requests.auth import HTTPBasicAuth
+
+from datetime import datetime, date, timedelta
 from django.core.exceptions import ObjectDoesNotExist
-from rest_framework import generics, status, permissions
+from rest_framework import status
+from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.views import APIView
-from django.db.models import Count
-from django.shortcuts import redirect
-
 from api.models import *
 from api.serializers import *
 from western.settings import *
@@ -17,17 +18,17 @@ class AuctionView(APIView):
         try:
             if id:
                 auction = Auction.objects.get(id=id)
-                serializer = AuctionSerializer(sale)
+                serializer = AuctionSerializer(auction)
                 return Response({"results": serializer.data}, status=status.HTTP_200_OK)
 
             else:
-                sale = Sale.objects.all()
-                serializer = AuctionSerializer(sale)
+                auction = Auction.objects.all()
+                serializer = AuctionSerializer(auction, many=True)
                 return Response({"results": serializer.data}, status=status.HTTP_200_OK)
 
         except ObjectDoesNotExist:
             return Response(
-                {"error": "Sale not found"}, status=status.HTTP_404_NOT_FOUND
+                {"error": "Auction not found"}, status=status.HTTP_404_NOT_FOUND
             )
 
     def post(self, request):
@@ -142,3 +143,16 @@ class SaleView(APIView):
             return Response(
                 {"error": "Sale not found"}, status=status.HTTP_404_NOT_FOUND
             )
+
+
+@api_view()
+def AddSales(request):
+    serializer = SaleSerializer(data=request.data, many=True)
+    if serializer.is_valid():
+        serializer.save()
+        return Response({"results": serializer.data}, status=status.HTTP_200_OK)
+
+    else:
+        return Response(
+            {"results": serializer.errors}, status=status.HTTP_400_BAD_REQUEST
+        )
