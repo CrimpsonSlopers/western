@@ -1,0 +1,1397 @@
+[
+    {
+        "slug": "2020",
+        "name": "Aberdeen, SD",
+        "full_name": "Hub City Livestock Auction - Aberdeen, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2020/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1830",
+        "name": "Ada, OK",
+        "full_name": "Southern Oklahoma Livestock Auction Feeder Cattle- Ada, OK",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1830/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3104",
+        "name": "Ada, OK",
+        "full_name": "Southern Oklahoma Livestock Video/Internet Auction - Ada, OK",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3104/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1952",
+        "name": "Amarillo, TX",
+        "full_name": "Amarillo Livestock Auction - Amarillo, TX",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1952/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1829",
+        "name": "Apache, OK",
+        "full_name": "Apache Livestock Auction - Apache, OK",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1829/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3102",
+        "name": "Apache, OK",
+        "full_name": "Apache Livestock Video/Internet Auction - Apache, OK",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3102/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1820",
+        "name": "Ava, MO",
+        "full_name": "Douglas County Livestock Auction - Ava, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1820/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3417",
+        "name": "Bassett, NE",
+        "full_name": "Bassett Livestock Auction Video Sale - Bassett, NE",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3417/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1852",
+        "name": "Bassett, NE",
+        "full_name": "Bassett Livestock Auction - Bassett, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1852/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1783",
+        "name": "Belen, NM",
+        "full_name": "Cattlemen's Livestock Auction - Belen, NM",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1783/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3631",
+        "name": "Billings, MT",
+        "full_name": "Billings Livestock Commission Cattle Video Auction - Billings, MT",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3631/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "2772",
+        "name": "Billings, MT",
+        "full_name": "Northern Livestock Video/Internet Auction - Billings, MT",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2772/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1776",
+        "name": "Billings, MT (Fri)",
+        "full_name": "Public Auction Yards Livestock Cattle Auction - Billings, MT (Fri)",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1776/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1775",
+        "name": "Billings, MT (Mon)",
+        "full_name": "Billings Livestock Commission Cattle Auction - Billings, MT (Mon)",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1775/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1777",
+        "name": "Billings, MT (Thu)",
+        "full_name": "Billings Livestock Commission Cattle Auction - Billings, MT (Thu)",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1777/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1774",
+        "name": "Billings, MT (Wed)",
+        "full_name": "Public Auction Yards Livestock Cattle Auction - Billings, MT (Wed)",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1774/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2162",
+        "name": "Bloomfield, IA",
+        "full_name": "Bloomfield Livestock Feeder Cattle - Bloomfield, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2162/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2133",
+        "name": "Bloomfield, IA",
+        "full_name": "Bloomfield Livestock IMBIO Feeder Cattle Special - Bloomfield, IA",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2133/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1810",
+        "name": "Bowling Green, MO",
+        "full_name": "Eastern MO Commission Company - Bowling Green, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1810/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1906",
+        "name": "Brush, CO",
+        "full_name": "Livestock Exchange Feeder Cattle Auction (Friday) - Brush, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1906/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3090",
+        "name": "Brush, CO",
+        "full_name": "Livestock Exchange Cattle Auction (Thursday) - Brush, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3090/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1851",
+        "name": "Burwell, NE",
+        "full_name": "Burwell Livestock Market - Burwell, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1851/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2937",
+        "name": "Burwell, NE",
+        "full_name": "Burwell Livestock Market Video Auction - Burwell, NE",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2937/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1811",
+        "name": "Butler, MO",
+        "full_name": "MO-Kan Livestock Market - Butler, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1811/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2934",
+        "name": "Carthage, MO",
+        "full_name": "Joplin Regional Stockyards Video Auction - Carthage, MO",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2934/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1245",
+        "name": "Carthage, MO",
+        "full_name": "Joplin Regional Stockyards Feeder Cattle - Carthage, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1245/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1822",
+        "name": "Carthage, MO",
+        "full_name": "Joplin Regional Stockyards Feeder Cattle Special- Carthage, MO",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1822/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1790",
+        "name": "Carthage, MO",
+        "full_name": "Show-Me-Select Special - Carthage, MO",
+        "market": "graded",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1790/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2163",
+        "name": "Centerville, IA",
+        "full_name": "Appanoose County Livestock Feeder Cattle - Centerville, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2163/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2166",
+        "name": "Clarinda, IA",
+        "full_name": "Clarinda Livestock Feeder Cattle - Clarinda, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2166/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1781",
+        "name": "Clovis, NM",
+        "full_name": "Clovis Livestock Auction - Clovis, NM",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1781/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2906",
+        "name": "Colorado Direct",
+        "full_name": "Colorado Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2906/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "3242",
+        "name": "Cottonwood, CA",
+        "full_name": "Western Video Market Livestock Video/Internet Auction - Cottonwood, CA",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3242/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "3412",
+        "name": "Crawford, NE",
+        "full_name": "Crawford Livestock Video Auction - Crawford, NE",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3412/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1857",
+        "name": "Crawford, NE",
+        "full_name": "Crawford Livestock Market - Crawford, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1857/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2160",
+        "name": "Creston, IA",
+        "full_name": "Creston Livestock Feeder Cattle - Creston, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2160/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1814",
+        "name": "Cuba, MO",
+        "full_name": "Interstate Regional Stockyards - Cuba, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1814/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1953",
+        "name": "Dalhart, TX",
+        "full_name": "Cattlemen's Livestock Auction - Dalhart, TX",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1953/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3468",
+        "name": "Denison, IA",
+        "full_name": "Denison Livestock Feeder Cattle Special - Denison, IA",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3468/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2150",
+        "name": "Denison, IA",
+        "full_name": "Denison Livestock Feeder Cattle - Denison, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2150/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2099",
+        "name": "Dickinson, ND",
+        "full_name": "Stockmen's Livestock Exchange - Dickinson, ND",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2099/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1889",
+        "name": "Dodge City, KS",
+        "full_name": "Winter Livestock - Dodge City, KS",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1889/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3491",
+        "name": "Dodge City, KS",
+        "full_name": "Winter Livestock Anniversary Feeder Cattle Special - Dodge City, KS",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3491/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2155",
+        "name": "Dunlap, IA",
+        "full_name": "Dunlap Livestock Feeder Cattle - Dunlap, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2155/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2135",
+        "name": "Dunlap, IA",
+        "full_name": "Dunlap Livestock Feeder Cattle Special - Dunlap, IA",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2135/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1281",
+        "name": "El Reno, OK",
+        "full_name": "OKC West Livestock Auction  - El Reno, OK",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 1,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1281/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2890",
+        "name": "Enid, OK",
+        "full_name": "High Plains Video/Internet Auction - Enid, OK",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2890/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "3459",
+        "name": "Ericson, NE",
+        "full_name": "Ericson Livestock Market Cattle Video Auction - Ericson, NE",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3459/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1853",
+        "name": "Ericson, NE",
+        "full_name": "Ericson Livestock Market - Ericson, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": -2,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1853/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1812",
+        "name": "Farmington, MO",
+        "full_name": "Farmington Regional Stockyards - Farmington, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1812/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1793",
+        "name": "Farmington, MO",
+        "full_name": "Show-Me-Select Special - Farmington, MO",
+        "market": "graded",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1793/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1904",
+        "name": "Fort Collins, CO",
+        "full_name": "Centennial Livestock Auction Feeder Cattle Sale (Thursday) - Fort Collins, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1904/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1898",
+        "name": "Fort Collins, CO",
+        "full_name": "Centennial Livestock Monthly Dairy Feeder Cattle Sale - Fort Collins, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1898/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1905",
+        "name": "Fort Collins, CO",
+        "full_name": "Centennial Livestock Auction (Friday) - Fort Collins, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1905/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1863",
+        "name": "Fort Collins, CO",
+        "full_name": "Centennial Livestock Auction Stock Show Special - Fort Collins, CO",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1863/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3103",
+        "name": "Fort Worth, TX",
+        "full_name": "Superior Livestock Video/Internet Auction (Website Catalog) - Fort Worth, TX",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3103/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "2713",
+        "name": "Fort Worth, TX",
+        "full_name": "Superior Livestock Video/Internet Auction - Fort Worth, TX",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2713/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1791",
+        "name": "Fruitland, MO",
+        "full_name": "Show-Me-Select Special - Fruitland, MO",
+        "market": "graded",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1791/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2021",
+        "name": "Ft. Pierre, SD",
+        "full_name": "Ft. Pierre Livestock Auction (Friday) - Ft. Pierre, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2021/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2009",
+        "name": "Ft. Pierre, SD",
+        "full_name": "Ft. Pierre Calf Auction (Wed-Seasonal) - Ft. Pierre, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2009/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1858",
+        "name": "Gordon, NE",
+        "full_name": "Gordon Livestock Market - Gordon, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1858/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1254",
+        "name": "Green City, MO",
+        "full_name": "Green City Livestock Auction - Green City, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1254/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1786",
+        "name": "Green City, MO",
+        "full_name": "Green City Livestock Auction Thanksgiving Special - Green City, MO",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1786/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2024",
+        "name": "Herreid, SD",
+        "full_name": "Herreid Livestock Market - Herreid, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2024/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2018",
+        "name": "Humeston, IA",
+        "full_name": "Humeston Livestock Auction - Humeston, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2018/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2938",
+        "name": "Huss and Lexington Video",
+        "full_name": "Huss and Lexington Livestock Video/Internet Auction",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2938/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1854",
+        "name": "Imperial, NE",
+        "full_name": "Imperial Auction Market - Imperial, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1854/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3455",
+        "name": "Iowa Direct",
+        "full_name": "Iowa Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3455/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "3484",
+        "name": "Jackson, MO",
+        "full_name": "SEMO Livestock Sales Cattle Auction - Jackson, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3484/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3097",
+        "name": "Kansas Direct",
+        "full_name": "Kansas Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3097/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1848",
+        "name": "Kearney, NE",
+        "full_name": "Huss Livestock Market - Kearney, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1848/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1819",
+        "name": "Kingdom City, MO",
+        "full_name": "Callaway Livestock Center - Kingdom City, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1819/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1815",
+        "name": "Kingsville, MO",
+        "full_name": "Kingsville Livestock Auction - Kingsville, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1815/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1794",
+        "name": "Kingsville, MO",
+        "full_name": "Show-Me-Select Special - Kingsville, MO",
+        "market": "graded",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1794/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1795",
+        "name": "Kirksville, MO",
+        "full_name": "Show-Me-Select Special - Kirksville, MO",
+        "market": "graded",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1795/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2151",
+        "name": "Knoxville, IA",
+        "full_name": "Knoxville Regional Feeder Cattle - Knoxville, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2151/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1903",
+        "name": "La Junta, CO",
+        "full_name": "La Junta Livestock Commision - La Junta, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1903/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1902",
+        "name": "La Junta, CO",
+        "full_name": "Winter Livestock Seasonal Feeder Cattle Sale (Monday) - La Junta, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1902/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1901",
+        "name": "La Junta, CO",
+        "full_name": "Winter Livestock (Tuesday) - La Junta, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1901/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1897",
+        "name": "La Junta, CO",
+        "full_name": "La Junta Livestock Stock Cow and Pair Special - La Junta, CO",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1897/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1896",
+        "name": "La Junta, CO",
+        "full_name": "Winter Livestock Stock Cow and Pair Special - La Junta, CO",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1896/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2158",
+        "name": "Lamoni, IA",
+        "full_name": "Lamoni Livestock Feeder Cattle - Lamoni, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2158/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1849",
+        "name": "Lexington, NE",
+        "full_name": "Lexington Livestock Market - Lexington, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1849/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1813",
+        "name": "Macon, MO",
+        "full_name": "Lolli Brothers Livestock Market - Macon, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1813/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2097",
+        "name": "Mandan, ND",
+        "full_name": "Kist Livestock Auction - Mandan, ND",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2097/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1827",
+        "name": "McAlester, OK",
+        "full_name": "McAlester Union Livestock Auction - McAlester, OK",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1827/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1855",
+        "name": "McCook, NE",
+        "full_name": "Tri-State Livestock Auction - McCook, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1855/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1773",
+        "name": "Miles City, MT",
+        "full_name": "Miles City Livestock Commission Auction - Miles City, MT",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1773/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2808",
+        "name": "Missouri Direct",
+        "full_name": "Missouri Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2808/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "2022",
+        "name": "Mitchell, SD",
+        "full_name": "Mitchell Livestock Auction - Mitchell, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2022/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2025",
+        "name": "Mobridge, SD",
+        "full_name": "Mobridge Livestock Exchange (Thursday) - Mobridge, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2025/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2770",
+        "name": "Montana Direct",
+        "full_name": "Montana Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2770/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "2098",
+        "name": "Napoleon, ND",
+        "full_name": "Napoleon Livestock Auction - Napoleon, ND",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2098/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1248",
+        "name": "New Cambria, MO",
+        "full_name": "New Cambria Livestock Market - New Cambria, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1248/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2708",
+        "name": "New Mexico Direct",
+        "full_name": "New Mexico Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2708/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "3653",
+        "name": "North Platte, NE",
+        "full_name": "North Platte Stockyards Livestock Auction - North Platte, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3653/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3059",
+        "name": "Northwest Direct",
+        "full_name": "Northwest Direct Cattle Report (WA/OR/ID/UT)",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3059/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1850",
+        "name": "Ogallala, NE",
+        "full_name": "Ogallala Livestock Auction - Ogallala, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1850/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3619",
+        "name": "Ogallala, NE",
+        "full_name": "Ogallala Livestock Market Video Auction - Ogallala, NE",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3619/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1280",
+        "name": "Oklahoma City, OK",
+        "full_name": "Oklahoma National Stockyards Feeder Cattle - Oklahoma City, OK",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1280/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3098",
+        "name": "Oklahoma Direct",
+        "full_name": "Oklahoma Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3098/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1792",
+        "name": "Palmyra, MO",
+        "full_name": "Show-Me-Select Special - Palmyra, MO",
+        "market": "graded",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1792/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1809",
+        "name": "Patton Junction, MO",
+        "full_name": "Patton Junction Livestock Auction - Patton Junction, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1809/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2023",
+        "name": "Philip, SD",
+        "full_name": "Philip Livestock Auction - Philip, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2023/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3654",
+        "name": "Phillipsburg, MO",
+        "full_name": "Mid Missouri Stockyards Cattle Auction - Phillipsburg, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3654/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1891",
+        "name": "Pratt, KS",
+        "full_name": "Winter Livestock - Pratt, KS",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1891/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1890",
+        "name": "Pratt, KS",
+        "full_name": "Winter Livestock Cattle Special - Pratt, KS",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1890/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2102",
+        "name": "Riverton, WY",
+        "full_name": "Winter Livestock Auction (Seasonal) - Riverton, WY",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2102/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2104",
+        "name": "Riverton, WY",
+        "full_name": "Winter Livestock Auction - Riverton, WY",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2104/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1782",
+        "name": "Roswell, NM",
+        "full_name": "Roswell Livestock Auction - Roswell, NM",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1782/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1859",
+        "name": "Rushville, NE",
+        "full_name": "Sheridan Livestock Auction Co. - Rushville, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1859/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2159",
+        "name": "Russell, IA",
+        "full_name": "Russell Livestock Feeder Cattle - Russell, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2159/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1894",
+        "name": "Salina, KS",
+        "full_name": "Farmers and Ranchers Livestock Commission Co. Feeder Cattle Special - Salina, KS",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1894/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1892",
+        "name": "Salina, KS",
+        "full_name": "Farmers and Ranchers Livestock Commission Co. - Salina, KS",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1892/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2015",
+        "name": "San Angelo, TX",
+        "full_name": "Producers Livestock Cattle Auction - San Angelo, TX",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2015/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2013",
+        "name": "San Angelo, TX",
+        "full_name": "Producers Livestock Special Feeder Calf Auction - San Angelo, TX",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2013/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1818",
+        "name": "Sedalia, MO",
+        "full_name": "Central Missouri Sale Company - Sedalia, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1818/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2157",
+        "name": "Sheldon, IA",
+        "full_name": "Sheldon Livestock Feeder Cattle Special - Sheldon, IA",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2157/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2152",
+        "name": "Sigourney, IA",
+        "full_name": "Keoco Feeder Cattle Auction - Sigourney, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2152/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2161",
+        "name": "Sioux Center, IA",
+        "full_name": "Tri-State Feeder Cattle Auction - Sioux Center, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2161/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3184",
+        "name": "South Dakota Direct",
+        "full_name": "South Dakota Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3184/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "2709",
+        "name": "Southeast Direct",
+        "full_name": "Southeast Direct Cattle Report (AL/AR/FL/GA/LA/MS/TN)",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2709/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "2940",
+        "name": "Southwest Direct",
+        "full_name": "Southwest Direct Cattle Report (AZ/CA/NV)",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2940/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1255",
+        "name": "Springfield, MO",
+        "full_name": "Springfield Livestock Marketing Center Feeder Cattle - Springfield, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1255/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1512",
+        "name": "St Joseph, MO",
+        "full_name": "St Joseph Stockyards Feeder Cattle - St Joseph, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1512/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2019",
+        "name": "St. Onge, SD",
+        "full_name": "St. Onge Livestock Auction - St. Onge, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2019/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1867",
+        "name": "Sterling, CO",
+        "full_name": "Sterling Livestock Commission Stock Show Special - Sterling, CO",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1867/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1900",
+        "name": "Sterling, CO",
+        "full_name": "Sterling Livestock Commission - Sterling, CO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1900/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2156",
+        "name": "Tama, IA",
+        "full_name": "Tama Livestock Feeder Cattle - Tama, IA",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2156/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2144",
+        "name": "Tama, IA",
+        "full_name": "Tama Livestock Feeder Cattle Special - Tama, IA",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2144/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2710",
+        "name": "Texas Direct",
+        "full_name": "Texas Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2710/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "3635",
+        "name": "Tina, MO",
+        "full_name": "Tina Livestock Market Cattle Auction - Tina, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3635/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2101",
+        "name": "Torrington, WY",
+        "full_name": "Torrington Livestock Auction - Torrington, WY",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2101/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2105",
+        "name": "Torrington, WY",
+        "full_name": "Torrington Livestock Auction Special - Torrington, WY",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2105/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3241",
+        "name": "Torrington, WY",
+        "full_name": "Cattle Country Livestock Video/Internet Auction - Torrington, WY",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3241/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "2103",
+        "name": "Torrington, WY",
+        "full_name": "Torrington Livestock Feeder Cattle Auction - Torrington, WY",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2103/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1954",
+        "name": "Tulia, TX",
+        "full_name": "Tulia Livestock Auction - Tulia, TX",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1954/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1832",
+        "name": "Tulsa, OK",
+        "full_name": "Tulsa Livestock Auction - Tulsa, OK",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1832/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1237",
+        "name": "Unionville, MO",
+        "full_name": "Unionville Livestock Market  - Unionville, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1237/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3418",
+        "name": "Valentine, NE",
+        "full_name": "Valentine Livestock Auction Video Sale - Valentine, NE",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3418/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1856",
+        "name": "Valentine, NE",
+        "full_name": "Valentine Livestock Auction - Valentine, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1856/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3369",
+        "name": "Vienna, MO",
+        "full_name": "Show-Me-Select Special - Vienna, MO",
+        "market": "graded",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3369/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1817",
+        "name": "Vienna, MO",
+        "full_name": "South Central Regional Stockyards - Vienna, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1817/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2096",
+        "name": "West Fargo, ND",
+        "full_name": "West Fargo Feeder Cattle Auction - West Fargo, ND",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2096/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1839",
+        "name": "West Plains, MO",
+        "full_name": "Ozarks Regional Stockyards Cattle Special - West Plains, MO",
+        "market": "special",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1839/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3416",
+        "name": "West Plains, MO",
+        "full_name": "Ozarks Regional Stockyards Video Auction - West Plains, MO",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3416/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1249",
+        "name": "West Plains, MO",
+        "full_name": "Ozarks Regional Stockyards Feeder Cattle - West Plains, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1249/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2248",
+        "name": "West Point, NE",
+        "full_name": "West Point Livestock Feeder Cattle - West Point, NE",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2248/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3365",
+        "name": "Wildorado, TX",
+        "full_name": "Lonestar Stockyards - Wildorado, TX",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3365/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3620",
+        "name": "Wildorado, TX",
+        "full_name": "Lonestar Stockyards Video/Internet Auction - Wildorado, TX",
+        "market": "video",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3620/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    },
+    {
+        "slug": "1622",
+        "name": "Windsor, MO",
+        "full_name": "Windsor Livestock Auction - Windsor, MO",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1622/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "1828",
+        "name": "Woodward, OK",
+        "full_name": "Woodward Livestock Auction Feeder Cattle - Woodward, OK",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1828/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2026",
+        "name": "Worthing, SD",
+        "full_name": "Sioux Falls Regional Cattle Auction - Worthing, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2026/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "2016",
+        "name": "Worthing, SD",
+        "full_name": "Sioux Falls Regional Livestock Auction - Worthing, SD",
+        "market": "live",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2016/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
+    },
+    {
+        "slug": "3237",
+        "name": "Wyoming-Nebraska Direct",
+        "full_name": "Wyoming-Nebraska Direct Cattle Report",
+        "market": "direct",
+        "last_final_sale_date": "2020-01-01",
+        "offset": 0,
+        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/3237/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;wtd_avg_wt=700:899;current=Yes;freight=F.O.B.;lot_desc=None,Value Added,Split Loads;"
+    }
+]

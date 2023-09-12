@@ -1,14 +1,12 @@
 import pandas as pd
-import requests
-from requests.auth import HTTPBasicAuth
+import asyncio
 
-from datetime import datetime, date, timedelta
 from django.core.exceptions import ObjectDoesNotExist
 from rest_framework import status
-from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from api.models import *
+from api.AutoFeeder import *
 from api.serializers import *
 from western.settings import *
 
@@ -89,7 +87,7 @@ class SaleView(APIView):
 
             else:
                 sale = Sale.objects.all()
-                serializer = SaleSerializer(sale)
+                serializer = SaleSerializer(sale, many=True)
                 return Response({"results": serializer.data}, status=status.HTTP_200_OK)
 
         except ObjectDoesNotExist:
@@ -145,14 +143,14 @@ class SaleView(APIView):
             )
 
 
-@api_view()
-def AddSales(request):
-    serializer = SaleSerializer(data=request.data, many=True)
-    if serializer.is_valid():
-        serializer.save()
-        return Response({"results": serializer.data}, status=status.HTTP_200_OK)
+class UpdateView(APIView):
+    def get(self, request, slug=None):
+        try:
+            auction = Auction.objects.get(slug=slug)
+            make_request(auction)
+            return Response({"results": "serializer.data"}, status=status.HTTP_200_OK)
 
-    else:
-        return Response(
-            {"results": serializer.errors}, status=status.HTTP_400_BAD_REQUEST
-        )
+        except ObjectDoesNotExist:
+            return Response(
+                {"error": "Error updating"}, status=status.HTTP_404_NOT_FOUND
+            )

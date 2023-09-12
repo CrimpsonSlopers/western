@@ -11,6 +11,9 @@ class Auction(models.Model):
     offset = models.IntegerField(default=0)
     mmn_url = models.CharField(max_length=250)
 
+    class Meta:
+        ordering = ["name"]
+
     def __str__(self) -> str:
         return f"{self.name}"
 
