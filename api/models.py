@@ -3,19 +3,16 @@ from datetime import datetime
 
 
 class Auction(models.Model):
-    slug = models.SlugField(primary_key=True)
-    name = models.CharField(max_length=250)
+    name = models.CharField(max_length=250, primary_key=True)
+    slug = models.SlugField(unique=True)
     full_name = models.CharField(max_length=250, unique=True)
     market = models.CharField(max_length=250)
     last_final_sale_date = models.DateField(default=datetime(2023, 1, 1))
     offset = models.IntegerField(default=0)
     mmn_url = models.CharField(max_length=250)
 
-    class Meta:
-        ordering = ["name"]
-
     def __str__(self) -> str:
-        return f"{self.name}"
+        return f"{self.name} ({self.slug})"
 
 
 class Sale(models.Model):

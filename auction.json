@@ -19,7 +19,7 @@
     },
     {
         "slug": "3104",
-        "name": "Ada, OK",
+        "name": "Ada Video",
         "full_name": "Southern Oklahoma Livestock Video/Internet Auction - Ada, OK",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -46,7 +46,7 @@
     },
     {
         "slug": "3102",
-        "name": "Apache, OK",
+        "name": "Apache Video",
         "full_name": "Apache Livestock Video/Internet Auction - Apache, OK",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -64,7 +64,7 @@
     },
     {
         "slug": "3417",
-        "name": "Bassett, NE",
+        "name": "Bassett Video",
         "full_name": "Bassett Livestock Auction Video Sale - Bassett, NE",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -91,7 +91,7 @@
     },
     {
         "slug": "3631",
-        "name": "Billings, MT",
+        "name": "Billings Video",
         "full_name": "Billings Livestock Commission Cattle Video Auction - Billings, MT",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -100,7 +100,7 @@
     },
     {
         "slug": "2772",
-        "name": "Billings, MT",
+        "name": "Northern Video",
         "full_name": "Northern Livestock Video/Internet Auction - Billings, MT",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -154,7 +154,7 @@
     },
     {
         "slug": "2133",
-        "name": "Bloomfield, IA",
+        "name": "Bloomfield, IA (special)",
         "full_name": "Bloomfield Livestock IMBIO Feeder Cattle Special - Bloomfield, IA",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -172,7 +172,7 @@
     },
     {
         "slug": "1906",
-        "name": "Brush, CO",
+        "name": "Brush, CO (Fri)",
         "full_name": "Livestock Exchange Feeder Cattle Auction (Friday) - Brush, CO",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -181,7 +181,7 @@
     },
     {
         "slug": "3090",
-        "name": "Brush, CO",
+        "name": "Brush, CO (Thu)",
         "full_name": "Livestock Exchange Cattle Auction (Thursday) - Brush, CO",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -199,7 +199,7 @@
     },
     {
         "slug": "2937",
-        "name": "Burwell, NE",
+        "name": "Burwell Video",
         "full_name": "Burwell Livestock Market Video Auction - Burwell, NE",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -217,7 +217,7 @@
     },
     {
         "slug": "2934",
-        "name": "Carthage, MO",
+        "name": "Car-Jop Video",
         "full_name": "Joplin Regional Stockyards Video Auction - Carthage, MO",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -235,21 +235,12 @@
     },
     {
         "slug": "1822",
-        "name": "Carthage, MO",
+        "name": "Carthage, MO (special)",
         "full_name": "Joplin Regional Stockyards Feeder Cattle Special- Carthage, MO",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
         "offset": 0,
         "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1822/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
-    },
-    {
-        "slug": "1790",
-        "name": "Carthage, MO",
-        "full_name": "Show-Me-Select Special - Carthage, MO",
-        "market": "graded",
-        "last_final_sale_date": "2020-01-01",
-        "offset": 0,
-        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1790/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
     },
     {
         "slug": "2163",
@@ -298,7 +289,7 @@
     },
     {
         "slug": "3412",
-        "name": "Crawford, NE",
+        "name": "Crawford Video",
         "full_name": "Crawford Livestock Video Auction - Crawford, NE",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -343,7 +334,7 @@
     },
     {
         "slug": "3468",
-        "name": "Denison, IA",
+        "name": "Denison, IA (special)",
         "full_name": "Denison Livestock Feeder Cattle Special - Denison, IA",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -379,7 +370,7 @@
     },
     {
         "slug": "3491",
-        "name": "Dodge City, KS",
+        "name": "Dodge City, KS (special)",
         "full_name": "Winter Livestock Anniversary Feeder Cattle Special - Dodge City, KS",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -397,7 +388,7 @@
     },
     {
         "slug": "2135",
-        "name": "Dunlap, IA",
+        "name": "Dunlap, IA (special)",
         "full_name": "Dunlap Livestock Feeder Cattle Special - Dunlap, IA",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -424,7 +415,7 @@
     },
     {
         "slug": "3459",
-        "name": "Ericson, NE",
+        "name": "Ericson Video",
         "full_name": "Ericson Livestock Market Cattle Video Auction - Ericson, NE",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -451,7 +442,7 @@
     },
     {
         "slug": "1793",
-        "name": "Farmington, MO",
+        "name": "Farmington, MO (special)",
         "full_name": "Show-Me-Select Special - Farmington, MO",
         "market": "graded",
         "last_final_sale_date": "2020-01-01",
@@ -460,7 +451,7 @@
     },
     {
         "slug": "1904",
-        "name": "Fort Collins, CO",
+        "name": "Fort Collins, CO (Thu)",
         "full_name": "Centennial Livestock Auction Feeder Cattle Sale (Thursday) - Fort Collins, CO",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -468,17 +459,8 @@
         "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1904/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
     },
     {
-        "slug": "1898",
-        "name": "Fort Collins, CO",
-        "full_name": "Centennial Livestock Monthly Dairy Feeder Cattle Sale - Fort Collins, CO",
-        "market": "live",
-        "last_final_sale_date": "2020-01-01",
-        "offset": 0,
-        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1898/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
-    },
-    {
         "slug": "1905",
-        "name": "Fort Collins, CO",
+        "name": "Fort Collins, CO (Fri)",
         "full_name": "Centennial Livestock Auction (Friday) - Fort Collins, CO",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -487,7 +469,7 @@
     },
     {
         "slug": "1863",
-        "name": "Fort Collins, CO",
+        "name": "Fort Collins, CO (special)",
         "full_name": "Centennial Livestock Auction Stock Show Special - Fort Collins, CO",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -496,7 +478,7 @@
     },
     {
         "slug": "3103",
-        "name": "Fort Worth, TX",
+        "name": "Superior Video (special)",
         "full_name": "Superior Livestock Video/Internet Auction (Website Catalog) - Fort Worth, TX",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -505,7 +487,7 @@
     },
     {
         "slug": "2713",
-        "name": "Fort Worth, TX",
+        "name": "Superior Video",
         "full_name": "Superior Livestock Video/Internet Auction - Fort Worth, TX",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -532,7 +514,7 @@
     },
     {
         "slug": "2009",
-        "name": "Ft. Pierre, SD",
+        "name": "Ft. Pierre, SD (Wed)",
         "full_name": "Ft. Pierre Calf Auction (Wed-Seasonal) - Ft. Pierre, SD",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -559,7 +541,7 @@
     },
     {
         "slug": "1786",
-        "name": "Green City, MO",
+        "name": "Green City, MO (special)",
         "full_name": "Green City Livestock Auction Thanksgiving Special - Green City, MO",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -658,7 +640,7 @@
     },
     {
         "slug": "1794",
-        "name": "Kingsville, MO",
+        "name": "Kingsville, MO (special)",
         "full_name": "Show-Me-Select Special - Kingsville, MO",
         "market": "graded",
         "last_final_sale_date": "2020-01-01",
@@ -694,7 +676,7 @@
     },
     {
         "slug": "1902",
-        "name": "La Junta, CO",
+        "name": "La Junta, CO (Mon)",
         "full_name": "Winter Livestock Seasonal Feeder Cattle Sale (Monday) - La Junta, CO",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -703,7 +685,7 @@
     },
     {
         "slug": "1901",
-        "name": "La Junta, CO",
+        "name": "La Junta, CO (Tue)",
         "full_name": "Winter Livestock (Tuesday) - La Junta, CO",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -711,17 +693,8 @@
         "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1901/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
     },
     {
-        "slug": "1897",
-        "name": "La Junta, CO",
-        "full_name": "La Junta Livestock Stock Cow and Pair Special - La Junta, CO",
-        "market": "special",
-        "last_final_sale_date": "2020-01-01",
-        "offset": 0,
-        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/1897/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
-    },
-    {
         "slug": "1896",
-        "name": "La Junta, CO",
+        "name": "La Junta, CO (special)",
         "full_name": "Winter Livestock Stock Cow and Pair Special - La Junta, CO",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -883,7 +856,7 @@
     },
     {
         "slug": "3619",
-        "name": "Ogallala, NE",
+        "name": "Ogallala Video",
         "full_name": "Ogallala Livestock Market Video Auction - Ogallala, NE",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -955,7 +928,7 @@
     },
     {
         "slug": "1890",
-        "name": "Pratt, KS",
+        "name": "Pratt, KS (special)",
         "full_name": "Winter Livestock Cattle Special - Pratt, KS",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -964,7 +937,7 @@
     },
     {
         "slug": "2102",
-        "name": "Riverton, WY",
+        "name": "Riverton, WY (special)",
         "full_name": "Winter Livestock Auction (Seasonal) - Riverton, WY",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -1009,7 +982,7 @@
     },
     {
         "slug": "1894",
-        "name": "Salina, KS",
+        "name": "Salina, KS (special)",
         "full_name": "Farmers and Ranchers Livestock Commission Co. Feeder Cattle Special - Salina, KS",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -1036,7 +1009,7 @@
     },
     {
         "slug": "2013",
-        "name": "San Angelo, TX",
+        "name": "San Angelo, TX (special)",
         "full_name": "Producers Livestock Special Feeder Calf Auction - San Angelo, TX",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -1135,7 +1108,7 @@
     },
     {
         "slug": "1867",
-        "name": "Sterling, CO",
+        "name": "Sterling, CO (special)",
         "full_name": "Sterling Livestock Commission Stock Show Special - Sterling, CO",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -1162,7 +1135,7 @@
     },
     {
         "slug": "2144",
-        "name": "Tama, IA",
+        "name": "Tama, IA (special)",
         "full_name": "Tama Livestock Feeder Cattle Special - Tama, IA",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -1189,7 +1162,7 @@
     },
     {
         "slug": "2101",
-        "name": "Torrington, WY",
+        "name": "Torrington, WY (Fri)",
         "full_name": "Torrington Livestock Auction - Torrington, WY",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -1198,7 +1171,7 @@
     },
     {
         "slug": "2105",
-        "name": "Torrington, WY",
+        "name": "Torrington, WY (special)",
         "full_name": "Torrington Livestock Auction Special - Torrington, WY",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -1207,7 +1180,7 @@
     },
     {
         "slug": "3241",
-        "name": "Torrington, WY",
+        "name": "Torrington Video",
         "full_name": "Cattle Country Livestock Video/Internet Auction - Torrington, WY",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -1216,7 +1189,7 @@
     },
     {
         "slug": "2103",
-        "name": "Torrington, WY",
+        "name": "Torrington, WY ",
         "full_name": "Torrington Livestock Feeder Cattle Auction - Torrington, WY",
         "market": "live",
         "last_final_sale_date": "2020-01-01",
@@ -1252,7 +1225,7 @@
     },
     {
         "slug": "3418",
-        "name": "Valentine, NE",
+        "name": "Valentine Video",
         "full_name": "Valentine Livestock Auction Video Sale - Valentine, NE",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -1270,7 +1243,7 @@
     },
     {
         "slug": "3369",
-        "name": "Vienna, MO",
+        "name": "Vienna, MO (special)",
         "full_name": "Show-Me-Select Special - Vienna, MO",
         "market": "graded",
         "last_final_sale_date": "2020-01-01",
@@ -1297,7 +1270,7 @@
     },
     {
         "slug": "1839",
-        "name": "West Plains, MO",
+        "name": "West Plains, MO (special)",
         "full_name": "Ozarks Regional Stockyards Cattle Special - West Plains, MO",
         "market": "special",
         "last_final_sale_date": "2020-01-01",
@@ -1306,7 +1279,7 @@
     },
     {
         "slug": "3416",
-        "name": "West Plains, MO",
+        "name": "West Plains Video",
         "full_name": "Ozarks Regional Stockyards Video Auction - West Plains, MO",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -1342,7 +1315,7 @@
     },
     {
         "slug": "3620",
-        "name": "Wildorado, TX",
+        "name": "Wildorado Video",
         "full_name": "Lonestar Stockyards Video/Internet Auction - Wildorado, TX",
         "market": "video",
         "last_final_sale_date": "2020-01-01",
@@ -1375,15 +1348,6 @@
         "last_final_sale_date": "2020-01-01",
         "offset": 0,
         "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2026/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
-    },
-    {
-        "slug": "2016",
-        "name": "Worthing, SD",
-        "full_name": "Sioux Falls Regional Livestock Auction - Worthing, SD",
-        "market": "live",
-        "last_final_sale_date": "2020-01-01",
-        "offset": 0,
-        "mmn_url": "https://marsapi.ams.usda.gov/services/v1.2/reports/2016/Report Details?q=report_end_date={}:{};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;avg_weight=700:899;freight=F.O.B.;lot_desc=None,Value Added,Split Loads"
     },
     {
         "slug": "3237",

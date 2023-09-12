@@ -1,6 +1,6 @@
 import pandas as pd
 import asyncio
-
+import json
 from django.core.exceptions import ObjectDoesNotExist
 from rest_framework import status
 from rest_framework.response import Response
@@ -9,6 +9,27 @@ from api.models import *
 from api.AutoFeeder import *
 from api.serializers import *
 from western.settings import *
+
+
+class AddAuctionFromJSON(APIView):
+    def get(self, request, id=None):
+        try:
+            with open("auction.json", "r") as f:
+                data = json.load(f)
+            serializer = AuctionSerializer(data=data, many=True)
+            if serializer.is_valid():
+                serializer.save()
+                return Response({"results": serializer.data}, status=status.HTTP_200_OK)
+
+            else:
+                return Response(
+                    {"results": serializer.errors}, status=status.HTTP_400_BAD_REQUEST
+                )
+
+        except ObjectDoesNotExist:
+            return Response(
+                {"error": "Auction not found"}, status=status.HTTP_404_NOT_FOUND
+            )
 
 
 class AuctionView(APIView):

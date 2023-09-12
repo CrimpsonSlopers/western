@@ -7,4 +7,5 @@ urlpatterns = [
     path("auction", AuctionView.as_view()),
     path("auction/<int:id>", AuctionView.as_view()),
     path("update/<int:slug>", UpdateView.as_view()),
+    path("add", AddAuctionFromJSON.as_view()),
 ]

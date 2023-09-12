@@ -22,29 +22,37 @@ def flatten(df: pd.DataFrame):
     return (int(h), (w / h) if h else 0.0, (p / w) if h else 0.0)
 
 
-def process_sale(df, report_date, auction_slug, final_ind, region=""):
-    sale = Sale(
-        date=report_date, auction_id=auction_slug, final_ind=final_ind, region=region
-    )
-    for i, weight_rng in enumerate(WEIGHT_RANGES):
-        h, w, p = flatten(
-            df[df["avg_weight"].between(weight_rng[0], weight_rng[1], inclusive="left")]
+def process_sale(df, report_date, auction_name, final_ind, region=""):
+    try:
+        sale = Sale(
+            date=report_date,
+            auction_id=auction_name,
+            final_ind=final_ind,
+            region=region,
         )
-        setattr(sale, f"head{i+1}", h)
-        setattr(sale, f"weight{i+1}", w)
-        setattr(sale, f"price{i+1}", p)
+        for i, weight_rng in enumerate(WEIGHT_RANGES):
+            h, w, p = flatten(
+                df[
+                    df["avg_weight"].between(
+                        weight_rng[0], weight_rng[1], inclusive="left"
+                    )
+                ]
+            )
+            setattr(sale, f"head{i+1}", h)
+            setattr(sale, f"weight{i+1}", w)
+            setattr(sale, f"price{i+1}", p)
 
-    print(sale.auction)
-
-    sale.save()
+        sale.save()
+        return True
+    except:
+        print(f"Error adding sale to {auction_name} on {report_date}")
+        return False
 
 
 def make_request(auction):
-    # start = (auction.last_final_sale_date + timedelta(days=1)).strftime("%m/%d/%Y")
-    start = (date(2023, 9, 3)).strftime("%m/%d/%Y")
+    start = (auction.last_final_sale_date + timedelta(days=1)).strftime("%m/%d/%Y")
     end = (date.today() + timedelta(days=30)).strftime("%m/%d/%Y")
     response = requests.get(auction.mmn_url.format(start, end), auth=MARS_API_AUTH)
-    print(response.status_code, auction.full_name)
 
     if response.status_code >= 400:
         return None
@@ -64,7 +72,7 @@ def make_request(auction):
             final_ind = group["final_ind"].iloc[0].lower()
 
             if auction.market in ("live", "special"):
-                process_sale(group, report_date, auction.slug, final_ind)
+                process_sale(group, report_date, auction.name, final_ind)
 
             elif auction.market in ("direct", "video"):
                 group.rename(
@@ -79,17 +87,21 @@ def make_request(auction):
                 group["avg_price"] = group["avg_price"].astype(float)
 
                 if auction.market == "direct":
-                    process_sale(group, report_date, auction.slug, final_ind)
+                    process_sale(group, report_date, auction.name, final_ind)
 
                 else:
                     for region, region_group in group.groupby("region_name"):
                         process_sale(
                             region_group,
                             report_date,
-                            auction.slug,
+                            auction.name,
                             final_ind,
                             region=region,
                         )
+
+                if final_ind == "final":
+                    auction.last_final_sale_date = report_date
+                    auction.save()
 
 
 async def update_autofeeder(auctions):
