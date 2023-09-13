@@ -16,12 +16,13 @@ import Paper from '@mui/material/Paper';
 
 
 function not(a, b) {
-    return a.filter((value) => b.indexOf(value) === -1);
+    return a.filter((value) => b.findIndex((item) => item.slug === value.slug) === -1);
 }
 
 function intersection(a, b) {
-    return a.filter((value) => b.indexOf(value) !== -1);
+    return a.filter((value) => b.findIndex((item) => item.slug === value.slug) !== -1);
 }
+
 
 export default function Dashboard() {
     const [progress, setProgress] = useState(0);
@@ -50,13 +51,14 @@ export default function Dashboard() {
     }, []);
 
     useEffect(() => {
-        console.log("LEFT: ", left)
-    }, [left])
+        console.log(checked)
+    }, [checked])
 
     const leftChecked = intersection(checked, left);
     const rightChecked = intersection(checked, right);
 
     const handleToggle = (value) => () => {
+        console.log(value)
         const currentIndex = checked.indexOf(value);
         const newChecked = [...checked];
 
@@ -131,11 +133,12 @@ export default function Dashboard() {
                         <ListItem
                             key={value.slug}
                             role="listitem"
-                            onClick={handleToggle(value.slug)}
+                            button
+                            onClick={handleToggle(value)}
                         >
                             <ListItemIcon>
                                 <Checkbox
-                                    checked={checked.indexOf(value.slug) !== -1}
+                                    checked={checked.findIndex((item) => item.slug === value.slug) !== -1}
                                     tabIndex={-1}
                                     disableRipple
                                     inputProps={{

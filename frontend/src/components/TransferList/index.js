@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import * as React from 'react';
 import Grid from '@mui/material/Grid';
 import List from '@mui/material/List';
 import ListItem from '@mui/material/ListItem';
@@ -16,14 +16,10 @@ function intersection(a, b) {
     return a.filter((value) => b.indexOf(value) !== -1);
 }
 
-export default function TransferList({ auctions }) {
-    const [checked, setChecked] = useState([]);
-    const [left, setLeft] = useState([...auctions]);
-    const [right, setRight] = useState([]);
-
-    useEffect(() => {
-        console.log("LEFT: ", left)
-    }, [left])
+export default function TransferList() {
+    const [checked, setChecked] = React.useState([]);
+    const [left, setLeft] = React.useState([0, 1, 2, 3]);
+    const [right, setRight] = React.useState([4, 5, 6, 7]);
 
     const leftChecked = intersection(checked, left);
     const rightChecked = intersection(checked, right);
@@ -67,18 +63,18 @@ export default function TransferList({ auctions }) {
         <Paper sx={{ width: 200, height: 230, overflow: 'auto' }}>
             <List dense component="div" role="list">
                 {items.map((value) => {
-                    const labelId = `transfer-list-item-${value.slug}-label`;
-                    console.log(value)
+                    const labelId = `transfer-list-item-${value}-label`;
+
                     return (
                         <ListItem
-                            key={value.slug}
+                            key={value}
                             role="listitem"
                             button
-                            onClick={handleToggle(value.slug)}
+                            onClick={handleToggle(value)}
                         >
                             <ListItemIcon>
                                 <Checkbox
-                                    checked={checked.indexOf(value.slug) !== -1}
+                                    checked={checked.indexOf(value) !== -1}
                                     tabIndex={-1}
                                     disableRipple
                                     inputProps={{
@@ -86,7 +82,7 @@ export default function TransferList({ auctions }) {
                                     }}
                                 />
                             </ListItemIcon>
-                            <ListItemText id={labelId} primary={`${value.name} (${value.slug})`} />
+                            <ListItemText id={labelId} primary={`List item ${value + 1}`} />
                         </ListItem>
                     );
                 })}
