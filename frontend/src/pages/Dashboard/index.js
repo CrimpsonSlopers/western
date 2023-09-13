@@ -158,7 +158,7 @@ export default function Dashboard() {
             <AppBar sx={{ background: 'white', boxShadow: 'none' }}>
                 <Toolbar>
                     <Typography variant='h4' component='div' sx={{ flexGrow: 1, color: 'black', fontWeight: 'bold' }}>
-                        WESTERN
+                        <a href='/' style={{ color: 'black', textDecoration: 'none' }}>WESTERN</a>
                     </Typography>
                     <Typography variant='body2' component='div' sx={{ marginRight: '20px', fontWeight: 'bold' }}>
                         <a href='/admin/' style={{ color: 'black', textDecoration: 'none' }}>Admin</a>
