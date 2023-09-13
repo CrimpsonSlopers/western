@@ -10,8 +10,11 @@ class AuctionSerializer(serializers.ModelSerializer):
 
 
 class SaleSerializer(serializers.ModelSerializer):
-    auction = AuctionSerializer()
+    auction = serializers.SerializerMethodField()
 
     class Meta:
         model = Sale
         fields = "__all__"
+
+    def get_auction(self, obj):
+        return obj.auction.name

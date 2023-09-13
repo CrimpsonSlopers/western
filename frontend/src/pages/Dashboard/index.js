@@ -23,11 +23,8 @@ function intersection(a, b) {
     return a.filter((value) => b.indexOf(value) !== -1);
 }
 
-
-
 export default function Dashboard() {
     const [progress, setProgress] = useState(0);
-    const [auctions, setAuctions] = useState([]);
     const [isFetching, setIsFetching] = useState(false);
     const [checked, setChecked] = useState([]);
     const [left, setLeft] = useState([]);
