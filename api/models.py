@@ -9,7 +9,7 @@ class Auction(models.Model):
     market = models.CharField(max_length=250)
     last_final_sale_date = models.DateField(default=datetime(2023, 1, 1))
     offset = models.IntegerField(default=0)
-    mmn_url = models.CharField(max_length=250)
+    mmn_url = models.CharField(max_length=500)
 
     def __str__(self) -> str:
         return f"{self.name} ({self.slug})"

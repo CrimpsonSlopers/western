@@ -100,7 +100,9 @@ def make_request(auction):
                         )
 
             if final_ind == "final":
-                auction.last_final_sale_date = report_date
+                auction.last_final_sale_date = report_date - timedelta(
+                    days=auction.offset
+                )
                 auction.save()
 
 
