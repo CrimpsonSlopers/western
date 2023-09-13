@@ -125,7 +125,7 @@ export default function Dashboard() {
     }
 
     const customList = (items) => (
-        <Card variant={"outlined"} sx={{ width: 350, height: 600, overflow: 'auto' }}>
+        <Card variant={"outlined"} sx={{ width: 350, height: 500, overflow: 'auto' }}>
             <List dense component="div" role="list">
                 {items.map((value) => {
                     const labelId = `transfer-list-item-${value.slug}-label`;
