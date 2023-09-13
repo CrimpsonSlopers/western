@@ -96,7 +96,7 @@ def make_request(auction):
                             report_date,
                             auction.name,
                             final_ind,
-                            region=region,
+                            region=VIDEO_REGIONS["region"],
                         )
 
             if final_ind == "final":

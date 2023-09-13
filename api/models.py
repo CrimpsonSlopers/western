@@ -34,7 +34,7 @@ class Sale(models.Model):
     weight5 = models.FloatField(default=0)
     price5 = models.FloatField(default=0)
     final_ind = models.CharField(max_length=25, default="final")
-    region = models.CharField(max_length=10, null=True, blank=True)
+    region = models.CharField(max_length=15, null=True, blank=True)
 
     class Meta:
         ordering = ["-date"]
