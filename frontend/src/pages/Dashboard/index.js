@@ -12,7 +12,7 @@ import ListItem from '@mui/material/ListItem';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import Checkbox from '@mui/material/Checkbox';
-import Paper from '@mui/material/Paper';
+import Card from '@mui/material/Card';
 
 
 function not(a, b) {
@@ -125,7 +125,7 @@ export default function Dashboard() {
     }
 
     const customList = (items) => (
-        <Paper sx={{ width: 350, height: 600, overflow: 'auto' }}>
+        <Card variant={"outlined"} sx={{ width: 350, height: 600, overflow: 'auto' }}>
             <List dense component="div" role="list">
                 {items.map((value) => {
                     const labelId = `transfer-list-item-${value.slug}-label`;
@@ -133,7 +133,6 @@ export default function Dashboard() {
                         <ListItem
                             key={value.slug}
                             role="listitem"
-                            button
                             onClick={handleToggle(value)}
                         >
                             <ListItemIcon>
@@ -151,12 +150,12 @@ export default function Dashboard() {
                     );
                 })}
             </List>
-        </Paper>
+        </Card>
     );
 
     return (
         <Box component="main" sx={{ padding: 3, overflow: "auto", height: "100vh" }}>
-            <AppBar sx={{ background: 'transparent', boxShadow: 'none' }}>
+            <AppBar sx={{ background: 'white', boxShadow: 'none' }}>
                 <Toolbar>
                     <Typography variant='h4' component='div' sx={{ flexGrow: 1, color: 'black', fontWeight: 'bold' }}>
                         WESTERN
@@ -167,8 +166,8 @@ export default function Dashboard() {
                 </Toolbar>
             </AppBar>
             <Toolbar />
-            <Grid container spacing={3}>
-                <Grid item xs={12} md={8}>
+            <Grid container spacing={3} px={1}>
+                <Grid item xs={12} md={7}>
                     <Grid container spacing={2} justifyContent="center" alignItems="center">
                         <Grid item>{customList(left)}</Grid>
                         <Grid item>
@@ -226,7 +225,13 @@ export default function Dashboard() {
                         </Grid>
                         <Grid item>{customList(right)}</Grid>
                     </Grid>
-                    <Grid container spacing={2} py={2}>
+                    <Grid
+                        container
+                        justifyContent="center"
+                        alignItems="center"
+                        spacing={2}
+                        py={2}
+                    >
                         <Grid item xs>
                             <LinearProgress variant="determinate" value={progress} />
                         </Grid>
