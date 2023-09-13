@@ -55,12 +55,12 @@ def make_request(auction):
     response = requests.get(auction.mmn_url.format(start, end), auth=MARS_API_AUTH)
 
     if response.status_code >= 400:
-        return None
+        return False
 
     else:
         result = response.json()
         if "results" in result and len(result["results"]) == 0:
-            return None
+            return False
 
         df = pd.DataFrame.from_dict(result["results"])
         df["report_end_date"] = pd.to_datetime(
@@ -99,9 +99,9 @@ def make_request(auction):
                             region=region,
                         )
 
-                if final_ind == "final":
-                    auction.last_final_sale_date = report_date
-                    auction.save()
+            if final_ind == "final":
+                auction.last_final_sale_date = report_date
+                auction.save()
 
 
 async def update_autofeeder(auctions):
