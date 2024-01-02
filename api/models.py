@@ -1,5 +1,5 @@
 from django.db import models
-from datetime import datetime
+from datetime import date
 
 
 class Auction(models.Model):
@@ -7,7 +7,7 @@ class Auction(models.Model):
     slug = models.SlugField(unique=True)
     full_name = models.CharField(max_length=250, unique=True)
     market = models.CharField(max_length=250)
-    last_final_sale_date = models.DateField(default=datetime(2023, 1, 1))
+    last_final_sale_date = models.DateField(default=date(2023, 1, 1))
     offset = models.IntegerField(default=0)
     mmn_url = models.CharField(max_length=500)
 
@@ -34,7 +34,7 @@ class Sale(models.Model):
     weight5 = models.FloatField(default=0)
     price5 = models.FloatField(default=0)
     final_ind = models.CharField(max_length=25, default="final")
-    region = models.CharField(max_length=15, null=True, blank=True)
+    region = models.CharField(max_length=2, null=True, blank=True)
 
     class Meta:
         ordering = ["-date"]

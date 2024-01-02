@@ -6,6 +6,7 @@ import CssBaseline from "@mui/material/CssBaseline";
 import { theme } from "./theme";
 
 import Dashboard from './pages/Dashboard';
+import Home from './pages/Home';
 
 export default function App() {
 
@@ -13,7 +14,8 @@ export default function App() {
         <ThemeProvider theme={theme}>
             <CssBaseline />
             <Routes>
-                <Route index element={<Dashboard />} />
+                <Route index element={<Home />} />
+                <Route path='autofeeder' element={<Dashboard />} />
             </Routes>
         </ThemeProvider>
     )
