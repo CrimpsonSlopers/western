@@ -83,10 +83,10 @@ WSGI_APPLICATION = "western.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "Western",
-        "USER": "crimpsonslopers",
-        "PASSWORD": "17Nikefree!",
-        "HOST": "western-db-instance.cb5dgkhdduzz.us-east-2.rds.amazonaws.com",
+        "NAME": "western",
+        "USER": "root",
+        "PASSWORD": "root",
+        "HOST": "localhost",
         "PORT": 3306,
         # "ENGINE": "django.db.backends.sqlite3",
         # "NAME": BASE_DIR / "db.sqlite3",
