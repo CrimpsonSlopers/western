@@ -52,7 +52,18 @@ def process_sale(df, report_date, auction_name, final_ind, region=""):
 def make_request(auction):
     start = (auction.last_final_sale_date + timedelta(days=1)).strftime("%m/%d/%Y")
     end = (date.today() + timedelta(days=30)).strftime("%m/%d/%Y")
-    response = requests.get(auction.mmn_url.format(start, end), auth=MARS_API_AUTH)
+    url = f"https://marsapi.ams.usda.gov/services/v1.2/reports/{auction.slug}/Report Details?q=report_end_date={start}:{end};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;freight=F.O.B.;"
+
+    if auction.market == "video":
+        url += (
+            "wtd_avg_wt=700:899;current=Yes;region_name=South Central, North Central;"
+        )
+    if auction.market == "direct":
+        url += "wtd_avg_wt=700:899;current=Yes;"
+    else:
+        url += "avg_weight=700:899;"
+
+    response = requests.get(url, auth=MARS_API_AUTH)
 
     if response.status_code >= 400:
         return False
@@ -66,6 +77,7 @@ def make_request(auction):
         df["report_end_date"] = pd.to_datetime(
             df["report_end_date"], format="%m/%d/%Y"
         ).dt.date
+        df.drop(df.loc[df["lot_desc"] == "Mexicans"].index, inplace=True)
 
         for report_date, group in df.groupby("report_end_date"):
             report_date = report_date + timedelta(days=auction.offset)
