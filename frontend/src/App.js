@@ -1,22 +1,49 @@
-import React, { useEffect } from 'react';
-import { Routes, Route } from "react-router-dom";
+import React from 'react';
+import {
+    Route,
+    createBrowserRouter,
+    createRoutesFromElements,
+    defer
+} from "react-router-dom";
 
-import { ThemeProvider } from "@mui/material/styles";
-import CssBaseline from "@mui/material/CssBaseline";
-import { theme } from "./theme";
+import AutoFeeder from './pages/AutoFeeder';
+import HomePage from './pages/HomePage';
+import { AuthLayout } from "./components/AuthLayout";
+import { HomeLayout } from './components/HomeLayout';
+import { ProtectedLayout } from './components/ProtectedLayout';
 
-import Dashboard from './pages/Dashboard';
-import Home from './pages/Home';
+const getUserData = () =>
+    new Promise((resolve, reject) => {
+        fetch('api/authenticate')
+            .then(response => {
+                if (response.status === 200) {
+                    return response.json();
+                } else {
+                    return null
+                }
+            })
+            .then(user => {
+                resolve(user);
+            })
+            .catch(error => {
+                reject(error);
+            });
+    });
 
-export default function App() {
+export const router = createBrowserRouter(
+    createRoutesFromElements(
+        <Route
+            element={<AuthLayout />}
+            loader={() => defer({ userPromise: getUserData() })}
+        >
+            <Route element={<HomeLayout />}>
+                <Route path="/" element={<HomePage />} />
+            </Route>
 
-    return (
-        <ThemeProvider theme={theme}>
-            <CssBaseline />
-            <Routes>
-                <Route index element={<Home />} />
-                <Route path='autofeeder' element={<Dashboard />} />
-            </Routes>
-        </ThemeProvider>
+            <Route path="/autofeeder" element={<ProtectedLayout />}>
+                <Route index element={<AutoFeeder />} />
+
+            </Route>
+        </Route>
     )
-} 
+);

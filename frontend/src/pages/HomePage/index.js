@@ -2,8 +2,11 @@ import React from 'react';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
+import { useAuth } from '../../hooks/useAuth';
 
-const Home = () => {
+const HomePage = () => {
+    const { user } = useAuth();
+    
     return (
         <Box
             sx={{
@@ -47,6 +50,7 @@ const Home = () => {
                         WESTERN FUTURES
                     </Typography>
                 </Box>
+                    {user &&
                 <Box
                     sx={{
                         display: 'flex',
@@ -79,10 +83,11 @@ const Home = () => {
                         admin
                     </Link>
                 </Box>
+                    }
             </Box>
             {/* Other content goes here */}
         </Box>
     );
 };
 
-export default Home;
+export default HomePage;

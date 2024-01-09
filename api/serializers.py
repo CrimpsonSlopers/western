@@ -1,6 +1,12 @@
 from rest_framework import serializers
 
+from django.contrib.auth.models import User
 from .models import Sale, Auction
+
+class UserSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ['is_superuser', 'is_staff', "username", "first_name", "last_name", "email"]
 
 
 class AuctionSerializer(serializers.ModelSerializer):

@@ -5,10 +5,26 @@ from django.core.exceptions import ObjectDoesNotExist
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
+from rest_framework import status
+from rest_framework.permissions import IsAuthenticated  # Import the IsAuthenticated permission class
 from api.models import *
 from api.AutoFeeder import *
 from api.serializers import *
 from western.settings import *
+
+
+
+class UserPermissionCheckAPIView(APIView):
+    permission_classes = [IsAuthenticated]  # Apply IsAuthenticated permission to the view
+
+    def get(self, request):
+        user = request.user
+
+        if user.is_superuser or user.is_staff:
+            serializer = UserSerializer(user)
+            return Response(serializer.data)
+        else:
+            return Response({'detail': 'Access Forbidden'}, status=status.HTTP_403_FORBIDDEN)
 
 
 class AddAuctionFromJSON(APIView):
