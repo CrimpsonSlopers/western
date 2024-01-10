@@ -6,7 +6,7 @@ import { useAuth } from '../../hooks/useAuth';
 
 const HomePage = () => {
     const { user } = useAuth();
-    
+
     return (
         <Box
             sx={{
@@ -50,7 +50,6 @@ const HomePage = () => {
                         WESTERN FUTURES
                     </Typography>
                 </Box>
-                    {user &&
                 <Box
                     sx={{
                         display: 'flex',
@@ -58,18 +57,20 @@ const HomePage = () => {
                         alignItems: 'center',
                     }}
                 >
-                    <Link
-                        href="autofeeder"
-                        underline="none"
-                        color="white"
-                        sx={{
-                            fontSize: '1.5rem',
-                            fontWeight: 'bold',
-                            fontFamily: 'Brandon Grotesque',
-                        }}
-                    >
-                        autofeeder
-                    </Link>
+                    {user &&
+                        <Link
+                            href="autofeeder"
+                            underline="none"
+                            color="white"
+                            sx={{
+                                fontSize: '1.5rem',
+                                fontWeight: 'bold',
+                                fontFamily: 'Brandon Grotesque',
+                            }}
+                        >
+                            autofeeder
+                        </Link>
+                    }
                     <Link
                         href="admin/"
                         underline="none"
@@ -80,10 +81,9 @@ const HomePage = () => {
                             fontFamily: 'Brandon Grotesque',
                         }}
                     >
-                        admin
+                        login
                     </Link>
                 </Box>
-                    }
             </Box>
             {/* Other content goes here */}
         </Box>
