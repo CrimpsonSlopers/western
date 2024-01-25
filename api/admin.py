@@ -4,7 +4,23 @@ from django.utils.translation import gettext_lazy as _
 
 
 class AuctionAdmin(admin.ModelAdmin):
-    list_display = ["slug", "name", "full_name", "market", "last_final_sale_date"]
+    list_display = [
+        "slug",
+        "name",
+        "full_name",
+        "market",
+        "report_date",
+        "report_status",
+    ]
+    list_filter = [
+        "market",
+        "report_status",
+    ]
+    search_fields = [
+        "slug",
+        "name",
+        "full_name",
+    ]
 
 
 class IsTempListFilter(admin.SimpleListFilter):
@@ -27,8 +43,12 @@ class IsTempListFilter(admin.SimpleListFilter):
 
 class SaleAdmin(admin.ModelAdmin):
     list_filter = [IsTempListFilter]
+    search_fields = [
+        "auction",
+    ]
     list_display = (
-        "auction_plus",
+        "date",
+        "auction",
         "final_ind",
         "head1",
         "weight1_formatted",

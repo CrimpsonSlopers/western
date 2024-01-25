@@ -1,0 +1,1210 @@
+[
+    {
+        "slug": 2020,
+        "name": "Aberdeen, SD",
+        "fullName": "Hub City Livestock Auction - Aberdeen, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1830,
+        "name": "Ada, OK",
+        "fullName": "Southern Oklahoma Livestock Auction Feeder Cattle- Ada, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3104,
+        "name": "Ada Video",
+        "fullName": "Southern Oklahoma Livestock Video/Internet Auction - Ada, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1952,
+        "name": "Amarillo, TX",
+        "fullName": "Amarillo Livestock Auction - Amarillo, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1829,
+        "name": "Apache, OK",
+        "fullName": "Apache Livestock Auction - Apache, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3102,
+        "name": "Apache Video",
+        "fullName": "Apache Livestock Video/Internet Auction - Apache, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1820,
+        "name": "Ava, MO",
+        "fullName": "Douglas County Livestock Auction - Ava, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3417,
+        "name": "Bassett Video",
+        "fullName": "Bassett Livestock Auction Video Sale - Bassett, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1852,
+        "name": "Bassett, NE",
+        "fullName": "Bassett Livestock Auction - Bassett, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1783,
+        "name": "Belen, NM",
+        "fullName": "Cattlemen's Livestock Auction - Belen, NM",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3631,
+        "name": "Billings Video",
+        "fullName": "Billings Livestock Commission Cattle Video Auction - Billings, MT",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 2772,
+        "name": "Northern Video",
+        "fullName": "Northern Livestock Video/Internet Auction - Billings, MT",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1776,
+        "name": "Billings, MT (Fri)",
+        "fullName": "Public Auction Yards Livestock Cattle Auction - Billings, MT (Fri)",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1775,
+        "name": "Billings, MT (Mon)",
+        "fullName": "Billings Livestock Commission Cattle Auction - Billings, MT (Mon)",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1777,
+        "name": "Billings, MT (Thu)",
+        "fullName": "Billings Livestock Commission Cattle Auction - Billings, MT (Thu)",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1774,
+        "name": "Billings, MT (Wed)",
+        "fullName": "Public Auction Yards Livestock Cattle Auction - Billings, MT (Wed)",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2162,
+        "name": "Bloomfield, IA",
+        "fullName": "Bloomfield Livestock Feeder Cattle - Bloomfield, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2133,
+        "name": "Bloomfield, IA (special)",
+        "fullName": "Bloomfield Livestock IMBIO Feeder Cattle Special - Bloomfield, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 1810,
+        "name": "Bowling Green, MO",
+        "fullName": "Eastern MO Commission Company - Bowling Green, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1906,
+        "name": "Brush, CO (Fri)",
+        "fullName": "Livestock Exchange Feeder Cattle Auction (Friday) - Brush, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3090,
+        "name": "Brush, CO (Thu)",
+        "fullName": "Livestock Exchange Cattle Auction (Thursday) - Brush, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1851,
+        "name": "Burwell, NE",
+        "fullName": "Burwell Livestock Market - Burwell, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2937,
+        "name": "Burwell Video",
+        "fullName": "Burwell Livestock Market Video Auction - Burwell, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1811,
+        "name": "Butler, MO",
+        "fullName": "MO-Kan Livestock Market - Butler, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2934,
+        "name": "Car-Jop Video",
+        "fullName": "Joplin Regional Stockyards Video Auction - Carthage, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1245,
+        "name": "Carthage, MO",
+        "fullName": "Joplin Regional Stockyards Feeder Cattle - Carthage, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1822,
+        "name": "Carthage, MO (special)",
+        "fullName": "Joplin Regional Stockyards Feeder Cattle Special- Carthage, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 2163,
+        "name": "Centerville, IA",
+        "fullName": "Appanoose County Livestock Feeder Cattle - Centerville, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2166,
+        "name": "Clarinda, IA",
+        "fullName": "Clarinda Livestock Feeder Cattle - Clarinda, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1781,
+        "name": "Clovis, NM",
+        "fullName": "Clovis Livestock Auction - Clovis, NM",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2906,
+        "name": "Colorado Direct",
+        "fullName": "Colorado Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 3242,
+        "name": "Cottonwood, CA",
+        "fullName": "Western Video Market Livestock Video/Internet Auction - Cottonwood, CA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 3412,
+        "name": "Crawford Video",
+        "fullName": "Crawford Livestock Video Auction - Crawford, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1857,
+        "name": "Crawford, NE",
+        "fullName": "Crawford Livestock Market - Crawford, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2160,
+        "name": "Creston, IA",
+        "fullName": "Creston Livestock Feeder Cattle - Creston, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1814,
+        "name": "Cuba, MO",
+        "fullName": "Interstate Regional Stockyards - Cuba, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1953,
+        "name": "Dalhart, TX",
+        "fullName": "Cattlemen's Livestock Auction - Dalhart, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3468,
+        "name": "Denison, IA (special)",
+        "fullName": "Denison Livestock Feeder Cattle Special - Denison, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 2150,
+        "name": "Denison, IA",
+        "fullName": "Denison Livestock Feeder Cattle - Denison, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2099,
+        "name": "Dickinson, ND",
+        "fullName": "Stockmen's Livestock Exchange - Dickinson, ND",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1889,
+        "name": "Dodge City, KS",
+        "fullName": "Winter Livestock - Dodge City, KS",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3491,
+        "name": "Dodge City, KS (special)",
+        "fullName": "Winter Livestock Anniversary Feeder Cattle Special - Dodge City, KS",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 2155,
+        "name": "Dunlap, IA",
+        "fullName": "Dunlap Livestock Feeder Cattle - Dunlap, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2135,
+        "name": "Dunlap, IA (special)",
+        "fullName": "Dunlap Livestock Feeder Cattle Special - Dunlap, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 1281,
+        "name": "El Reno, OK",
+        "fullName": "OKC West Livestock Auction  - El Reno, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2890,
+        "name": "Enid, OK",
+        "fullName": "High Plains Video/Internet Auction - Enid, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 3459,
+        "name": "Ericson Video",
+        "fullName": "Ericson Livestock Market Cattle Video Auction - Ericson, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1853,
+        "name": "Ericson, NE",
+        "fullName": "Ericson Livestock Market - Ericson, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1812,
+        "name": "Farmington, MO",
+        "fullName": "Farmington Regional Stockyards - Farmington, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1793,
+        "name": "Farmington, MO (special)",
+        "fullName": "Show-Me-Select Special - Farmington, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "graded"
+    },
+    {
+        "slug": 1904,
+        "name": "Fort Collins, CO (Thu)",
+        "fullName": "Centennial Livestock Auction Feeder Cattle Sale (Thursday) - Fort Collins, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1905,
+        "name": "Fort Collins, CO (Fri)",
+        "fullName": "Centennial Livestock Auction (Friday) - Fort Collins, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1863,
+        "name": "Fort Collins, CO (special)",
+        "fullName": "Centennial Livestock Auction Stock Show Special - Fort Collins, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 3103,
+        "name": "Superior Video (special)",
+        "fullName": "Superior Livestock Video/Internet Auction (Website Catalog) - Fort Worth, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 2713,
+        "name": "Superior Video",
+        "fullName": "Superior Livestock Video/Internet Auction - Fort Worth, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1791,
+        "name": "Fruitland, MO",
+        "fullName": "Show-Me-Select Special - Fruitland, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "graded"
+    },
+    {
+        "slug": 2021,
+        "name": "Ft. Pierre, SD",
+        "fullName": "Ft. Pierre Livestock Auction (Friday) - Ft. Pierre, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2009,
+        "name": "Ft. Pierre, SD (Wed)",
+        "fullName": "Ft. Pierre Calf Auction (Wed-Seasonal) - Ft. Pierre, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1858,
+        "name": "Gordon, NE",
+        "fullName": "Gordon Livestock Market - Gordon, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1254,
+        "name": "Green City, MO",
+        "fullName": "Green City Livestock Auction - Green City, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1786,
+        "name": "Green City, MO (special)",
+        "fullName": "Green City Livestock Auction Thanksgiving Special - Green City, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 2024,
+        "name": "Herreid, SD",
+        "fullName": "Herreid Livestock Market - Herreid, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2018,
+        "name": "Humeston, IA",
+        "fullName": "Humeston Livestock Auction - Humeston, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2938,
+        "name": "Huss and Lexington Video",
+        "fullName": "Huss and Lexington Livestock Video/Internet Auction",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1854,
+        "name": "Imperial, NE",
+        "fullName": "Imperial Auction Market - Imperial, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3455,
+        "name": "Iowa Direct",
+        "fullName": "Iowa Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 3484,
+        "name": "Jackson, MO",
+        "fullName": "SEMO Livestock Sales Cattle Auction - Jackson, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3097,
+        "name": "Kansas Direct",
+        "fullName": "Kansas Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 1848,
+        "name": "Kearney, NE",
+        "fullName": "Huss Livestock Market - Kearney, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1819,
+        "name": "Kingdom City, MO",
+        "fullName": "Callaway Livestock Center - Kingdom City, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1815,
+        "name": "Kingsville, MO",
+        "fullName": "Kingsville Livestock Auction - Kingsville, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1794,
+        "name": "Kingsville, MO (special)",
+        "fullName": "Show-Me-Select Special - Kingsville, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "graded"
+    },
+    {
+        "slug": 1795,
+        "name": "Kirksville, MO",
+        "fullName": "Show-Me-Select Special - Kirksville, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "graded"
+    },
+    {
+        "slug": 2151,
+        "name": "Knoxville, IA",
+        "fullName": "Knoxville Regional Feeder Cattle - Knoxville, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1903,
+        "name": "La Junta, CO",
+        "fullName": "La Junta Livestock Commision - La Junta, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1902,
+        "name": "La Junta, CO (Mon)",
+        "fullName": "Winter Livestock Seasonal Feeder Cattle Sale (Monday) - La Junta, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1901,
+        "name": "La Junta, CO (Tue)",
+        "fullName": "Winter Livestock (Tuesday) - La Junta, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1896,
+        "name": "La Junta, CO (special)",
+        "fullName": "Winter Livestock Stock Cow and Pair Special - La Junta, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 2158,
+        "name": "Lamoni, IA",
+        "fullName": "Lamoni Livestock Feeder Cattle - Lamoni, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1849,
+        "name": "Lexington, NE",
+        "fullName": "Lexington Livestock Market - Lexington, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1813,
+        "name": "Macon, MO",
+        "fullName": "Lolli Brothers Livestock Market - Macon, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2097,
+        "name": "Mandan, ND",
+        "fullName": "Kist Livestock Auction - Mandan, ND",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1827,
+        "name": "McAlester, OK",
+        "fullName": "McAlester Union Livestock Auction - McAlester, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1855,
+        "name": "McCook, NE",
+        "fullName": "Tri-State Livestock Auction - McCook, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1773,
+        "name": "Miles City, MT",
+        "fullName": "Miles City Livestock Commission Auction - Miles City, MT",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2808,
+        "name": "Missouri Direct",
+        "fullName": "Missouri Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 2022,
+        "name": "Mitchell, SD",
+        "fullName": "Mitchell Livestock Auction - Mitchell, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2025,
+        "name": "Mobridge, SD",
+        "fullName": "Mobridge Livestock Exchange (Thursday) - Mobridge, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2770,
+        "name": "Montana Direct",
+        "fullName": "Montana Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 2098,
+        "name": "Napoleon, ND",
+        "fullName": "Napoleon Livestock Auction - Napoleon, ND",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1248,
+        "name": "New Cambria, MO",
+        "fullName": "New Cambria Livestock Market - New Cambria, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2708,
+        "name": "New Mexico Direct",
+        "fullName": "New Mexico Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 3653,
+        "name": "North Platte, NE",
+        "fullName": "North Platte Stockyards Livestock Auction - North Platte, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3059,
+        "name": "Northwest Direct",
+        "fullName": "Northwest Direct Cattle Report (WA/OR/ID/UT)",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 1850,
+        "name": "Ogallala, NE",
+        "fullName": "Ogallala Livestock Auction - Ogallala, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3619,
+        "name": "Ogallala Video",
+        "fullName": "Ogallala Livestock Market Video Auction - Ogallala, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1280,
+        "name": "Oklahoma City, OK",
+        "fullName": "Oklahoma National Stockyards Feeder Cattle - Oklahoma City, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3098,
+        "name": "Oklahoma Direct",
+        "fullName": "Oklahoma Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 1792,
+        "name": "Palmyra, MO",
+        "fullName": "Show-Me-Select Special - Palmyra, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "graded"
+    },
+    {
+        "slug": 1809,
+        "name": "Patton Junction, MO",
+        "fullName": "Patton Junction Livestock Auction - Patton Junction, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2023,
+        "name": "Philip, SD",
+        "fullName": "Philip Livestock Auction - Philip, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3654,
+        "name": "Phillipsburg, MO",
+        "fullName": "Mid Missouri Stockyards Cattle Auction - Phillipsburg, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1891,
+        "name": "Pratt, KS",
+        "fullName": "Winter Livestock - Pratt, KS",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1890,
+        "name": "Pratt, KS (special)",
+        "fullName": "Winter Livestock Cattle Special - Pratt, KS",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 2102,
+        "name": "Riverton, WY (special)",
+        "fullName": "Winter Livestock Auction (Seasonal) - Riverton, WY",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2104,
+        "name": "Riverton, WY",
+        "fullName": "Winter Livestock Auction - Riverton, WY",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1782,
+        "name": "Roswell, NM",
+        "fullName": "Roswell Livestock Auction - Roswell, NM",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1859,
+        "name": "Rushville, NE",
+        "fullName": "Sheridan Livestock Auction Co. - Rushville, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2159,
+        "name": "Russell, IA",
+        "fullName": "Russell Livestock Feeder Cattle - Russell, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1894,
+        "name": "Salina, KS (special)",
+        "fullName": "Farmers and Ranchers Livestock Commission Co. Feeder Cattle Special - Salina, KS",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 1892,
+        "name": "Salina, KS",
+        "fullName": "Farmers and Ranchers Livestock Commission Co. - Salina, KS",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2015,
+        "name": "San Angelo, TX",
+        "fullName": "Producers Livestock Cattle Auction - San Angelo, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2013,
+        "name": "San Angelo, TX (special)",
+        "fullName": "Producers Livestock Special Feeder Calf Auction - San Angelo, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 1818,
+        "name": "Sedalia, MO",
+        "fullName": "Central Missouri Sale Company - Sedalia, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2157,
+        "name": "Sheldon, IA",
+        "fullName": "Sheldon Livestock Feeder Cattle Special - Sheldon, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 2152,
+        "name": "Sigourney, IA",
+        "fullName": "Keoco Feeder Cattle Auction - Sigourney, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2161,
+        "name": "Sioux Center, IA",
+        "fullName": "Tri-State Feeder Cattle Auction - Sioux Center, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3184,
+        "name": "South Dakota Direct",
+        "fullName": "South Dakota Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 2709,
+        "name": "Southeast Direct",
+        "fullName": "Southeast Direct Cattle Report (AL/AR/FL/GA/LA/MS/TN)",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 2940,
+        "name": "Southwest Direct",
+        "fullName": "Southwest Direct Cattle Report (AZ/CA/NV)",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 1255,
+        "name": "Springfield, MO",
+        "fullName": "Springfield Livestock Marketing Center Feeder Cattle - Springfield, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1512,
+        "name": "St Joseph, MO",
+        "fullName": "St Joseph Stockyards Feeder Cattle - St Joseph, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2019,
+        "name": "St. Onge, SD",
+        "fullName": "St. Onge Livestock Auction - St. Onge, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1867,
+        "name": "Sterling, CO (special)",
+        "fullName": "Sterling Livestock Commission Stock Show Special - Sterling, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 1900,
+        "name": "Sterling, CO",
+        "fullName": "Sterling Livestock Commission - Sterling, CO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2156,
+        "name": "Tama, IA",
+        "fullName": "Tama Livestock Feeder Cattle - Tama, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2144,
+        "name": "Tama, IA (special)",
+        "fullName": "Tama Livestock Feeder Cattle Special - Tama, IA",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 2710,
+        "name": "Texas Direct",
+        "fullName": "Texas Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    },
+    {
+        "slug": 3635,
+        "name": "Tina, MO",
+        "fullName": "Tina Livestock Market Cattle Auction - Tina, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2101,
+        "name": "Torrington, WY (Fri)",
+        "fullName": "Torrington Livestock Auction - Torrington, WY",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2105,
+        "name": "Torrington, WY (special)",
+        "fullName": "Torrington Livestock Auction Special - Torrington, WY",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 3241,
+        "name": "Torrington Video",
+        "fullName": "Cattle Country Livestock Video/Internet Auction - Torrington, WY",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 2103,
+        "name": "Torrington, WY ",
+        "fullName": "Torrington Livestock Feeder Cattle Auction - Torrington, WY",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1954,
+        "name": "Tulia, TX",
+        "fullName": "Tulia Livestock Auction - Tulia, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1832,
+        "name": "Tulsa, OK",
+        "fullName": "Tulsa Livestock Auction - Tulsa, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1237,
+        "name": "Unionville, MO",
+        "fullName": "Unionville Livestock Market  - Unionville, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3418,
+        "name": "Valentine Video",
+        "fullName": "Valentine Livestock Auction Video Sale - Valentine, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1856,
+        "name": "Valentine, NE",
+        "fullName": "Valentine Livestock Auction - Valentine, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3369,
+        "name": "Vienna, MO (special)",
+        "fullName": "Show-Me-Select Special - Vienna, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "graded"
+    },
+    {
+        "slug": 1817,
+        "name": "Vienna, MO",
+        "fullName": "South Central Regional Stockyards - Vienna, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2096,
+        "name": "West Fargo, ND",
+        "fullName": "West Fargo Feeder Cattle Auction - West Fargo, ND",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1839,
+        "name": "West Plains, MO (special)",
+        "fullName": "Ozarks Regional Stockyards Cattle Special - West Plains, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "special"
+    },
+    {
+        "slug": 3416,
+        "name": "West Plains Video",
+        "fullName": "Ozarks Regional Stockyards Video Auction - West Plains, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1249,
+        "name": "West Plains, MO",
+        "fullName": "Ozarks Regional Stockyards Feeder Cattle - West Plains, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2248,
+        "name": "West Point, NE",
+        "fullName": "West Point Livestock Feeder Cattle - West Point, NE",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3365,
+        "name": "Wildorado, TX",
+        "fullName": "Lonestar Stockyards - Wildorado, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3620,
+        "name": "Wildorado Video",
+        "fullName": "Lonestar Stockyards Video/Internet Auction - Wildorado, TX",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "video"
+    },
+    {
+        "slug": 1622,
+        "name": "Windsor, MO",
+        "fullName": "Windsor Livestock Auction - Windsor, MO",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 1828,
+        "name": "Woodward, OK",
+        "fullName": "Woodward Livestock Auction Feeder Cattle - Woodward, OK",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 2026,
+        "name": "Worthing, SD",
+        "fullName": "Sioux Falls Regional Cattle Auction - Worthing, SD",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "live"
+    },
+    {
+        "slug": 3237,
+        "name": "Wyoming-Nebraska Direct",
+        "fullName": "Wyoming-Nebraska Direct Cattle Report",
+        "reportDate": "2023-08-01T00:00:00.000Z",
+        "publishedDate": "2023-08-01T00:00:00.000Z",
+        "marketType": "direct"
+    }
+]

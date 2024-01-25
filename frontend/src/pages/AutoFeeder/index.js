@@ -102,27 +102,42 @@ export default function AutoFeeder() {
 
     const handleUpdate = async () => {
         setIsFetching(true);
-        for (let i = 0; i < right.length; i++) {
-            try {
-                const response = await fetch('/api/update/' + right[i].slug, {
-                    method: "GET",
-                    headers: {
-                        "Content-Type": "application/json"
-                    }
-                });
-                if (response.ok) {
-                } else {
-                    console.error(`Request failed for item ${i.name}: ${response.status}`);
+        try {
+            const auctionsResponse = await fetch('/api/reports', {
+                method: "GET",
+                headers: {
+                    "Content-Type": "application/json"
                 }
-            } catch (error) {
-                console.error(`Request failed for item ${i.name}: ${error.message}`);
-            }
-            const newProgress = ((i + 1) / right.length) * 100;
-            setProgress(newProgress);
+            })
+            const auctions = await auctionsResponse.json();
+            console.log(auctions)
+            var i = 0;
+
+            // for (const auction of auctions) {
+            //     try {
+            //         const response = await fetch('/api/update/' + auction.slug, {
+            //             method: "GET",
+            //             headers: {
+            //                 "Content-Type": "application/json"
+            //             }
+            //         });
+            //     } catch (error) {
+            //         console.error(`Request failed for item ${i.name}: ${error.message}`);
+            //     }
+            //     const newProgress = ((i + 1) / auctions.length) * 100;
+            //     setProgress(newProgress);
+            //     i += 1;
+
+            // }
+        } catch (err) {
+            console.error(err)
+        } finally {
+            setProgress(0);
+            setIsFetching(false);
         }
-        setProgress(0);
-        setIsFetching(false);
     }
+
+
 
     const customList = (items) => (
         <Card variant={"outlined"} sx={{ width: 350, height: "80vh", overflow: 'auto' }}>
