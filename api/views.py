@@ -75,8 +75,9 @@ class AuctionView(APIView):
 class UpdateView(APIView):
     def get(self, request, slug=None):
         try:
-            auction = Auction.objects.get(slug=slug)
-            make_request(auction)
+            auctions = Auction.objects.all()
+            for auction in auctions:
+                make_request(auction)
             return Response({"results": "serializer.data"}, status=status.HTTP_200_OK)
 
         except ObjectDoesNotExist:
