@@ -7,8 +7,7 @@ class Auction(models.Model):
     slug = models.SlugField(unique=True)
     full_name = models.CharField(max_length=250, unique=True)
     market = models.CharField(max_length=250)
-    report_date = models.DateTimeField(default=datetime(2023, 1, 1, 0, 0, 0))
-    report_status = models.CharField(max_length=25, default="final")
+    last_final_sale_date = models.DateField(default=date(2023, 1, 1))
     offset = models.IntegerField(default=0)
     mmn_url = models.CharField(max_length=500)
 
