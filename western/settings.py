@@ -32,7 +32,7 @@ SECRET_KEY = os.getenv("SECRET")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["3.136.163.226", "localhost", "127.0.0.1", "autofeeder.westernfutures.com"]
+ALLOWED_HOSTS = ["3.136.163.226", "localhost", "127.0.0.1", "muddled.live"]
 
 
 # Application definition
