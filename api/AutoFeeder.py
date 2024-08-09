@@ -1,5 +1,4 @@
-import pytz
-from datetime import datetime
+import asyncio
 import pandas as pd
 import requests
 
@@ -7,7 +6,7 @@ from requests.auth import HTTPBasicAuth
 
 from datetime import date, timedelta
 
-from api.models import Sale, Auction
+from api.models import Sale
 
 WEIGHT_RANGES = [(700, 749), (750, 799), (800, 849), (850, 899), (700, 899)]
 MARS_API_AUTH = HTTPBasicAuth("rscaGmY9VNZo5Me5ttCYrjJhUxSF2sFX", "")
@@ -43,15 +42,15 @@ def process_sale(df, report_date, auction_name, final_ind, region=""):
             setattr(sale, f"weight{i+1}", w)
             setattr(sale, f"price{i+1}", p)
 
-            sale.save()
+        sale.save()
         return True
     except:
         print(f"Error adding sale to {auction_name} on {report_date}")
         return False
 
 
-def make_request(auction: Auction):
-    start = (auction.report_date.date() + timedelta(days=1)).strftime("%m/%d/%Y")
+def make_request(auction):
+    start = (auction.last_final_sale_date + timedelta(days=1)).strftime("%m/%d/%Y")
     end = (date.today() + timedelta(days=30)).strftime("%m/%d/%Y")
     url = f"https://marsapi.ams.usda.gov/services/v1.2/reports/{auction.slug}/Report Details?q=report_end_date={start}:{end};class=Steers;frame=Medium and Large;muscle_grade=1-2,1;freight=F.O.B.;"
 
@@ -67,12 +66,12 @@ def make_request(auction: Auction):
     response = requests.get(url, auth=MARS_API_AUTH)
 
     if response.status_code >= 400:
-        return
+        return False
 
     else:
         result = response.json()
         if "results" in result and len(result["results"]) == 0:
-            return
+            return False
 
         df = pd.DataFrame.from_dict(result["results"])
         df["report_end_date"] = pd.to_datetime(
@@ -112,10 +111,20 @@ def make_request(auction: Auction):
                             region=VIDEO_REGIONS[region],
                         )
 
-            parsed_datetime = datetime.strptime(
-                group["published_date"].iloc[0], "%m/%d/%Y %H:%M:%S"
-            )
-            
-            auction.report_date = pytz.timezone("UTC").localize(parsed_datetime)
-            auction.report_status = final_ind
-            auction.save()
+            if final_ind == "final":
+                auction.last_final_sale_date = report_date - timedelta(
+                    days=auction.offset
+                )
+                auction.save()
+
+
+async def update_autofeeder(auctions):
+    tasks = [make_request(auction) for auction in auctions]
+
+    results = []
+    for task in asyncio.as_completed(tasks):
+        response = await task
+        if response:
+            results += response
+
+    return results
