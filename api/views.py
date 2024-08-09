@@ -191,4 +191,3 @@ class UpdateView(APIView):
             return Response(
                 {"error": "Error updating"}, status=status.HTTP_404_NOT_FOUND
             )
-            )
